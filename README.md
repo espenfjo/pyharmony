@@ -15,6 +15,12 @@ Status
 * Authentication to harmony device working.
 * Sending a simple command to harmony device working.
 
+Further Exploration
+-------------------
+
+To capture packets for later viewing and inspection in Wireshark the following command will output raw TCP traffic on an iPhone
+  `tcpdump -i en0 -s 0 -v -w` > /tmp/yourOutputFile
+
 TODO
 ----
 
