@@ -104,7 +104,7 @@ down. It looks like the `deviceId` parameter is some numeric identifier of the
 device you're sending the command for. I assume this can be obtained from the
 sync protocol but have not yet investigated.
 
-## Command Types
+## Commands
 
 As mentioned above there are various commands that can be sent to your device. Here is a very incomplete list of commands
 * AppleTV
