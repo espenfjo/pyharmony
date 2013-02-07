@@ -112,3 +112,8 @@ As mentioned above there are various commands that can be sent to your device. H
   * DirectionDown
   * DirectionLeft
   * DirectionRight
+  * Select
+  * Menu
+* Home Theater
+  * VolumeUp
+  * VolumeDown
