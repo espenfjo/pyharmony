@@ -103,3 +103,12 @@ release event would have to be sent to stop the volume from continuing to go
 down. It looks like the `deviceId` parameter is some numeric identifier of the
 device you're sending the command for. I assume this can be obtained from the
 sync protocol but have not yet investigated.
+
+## Command Types
+
+As mentioned above there are various commands that can be sent to your device. Here is a very incomplete list of commands
+* AppleTV
+  * DirectionUp
+  * DirectionDown
+  * DirectionLeft
+  * DirectionRight
