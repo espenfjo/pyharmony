@@ -115,3 +115,17 @@ You can send an IQ query with an `<oa>` tag to ask for `?config`:
 
 The response contains a CDATA body that has a JSON string containing the list
 of devices and their available commands.
+
+## Commands
+
+As mentioned above there are various commands that can be sent to your device. Here is a very incomplete list of commands
+* AppleTV
+  * DirectionUp
+  * DirectionDown
+  * DirectionLeft
+  * DirectionRight
+  * Select
+  * Menu
+* Home Theater
+  * VolumeUp
+  * VolumeDown
